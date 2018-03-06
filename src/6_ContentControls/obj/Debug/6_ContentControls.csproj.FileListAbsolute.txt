@@ -1,0 +1,13 @@
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\bin\Debug\6_ContentControls.exe.config
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\bin\Debug\6_ContentControls.exe
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\bin\Debug\6_ContentControls.pdb
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls.g.resources
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\_6_ContentControls.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls.exe
+D:\Src\MainAcademy\WPF_Examples\6_ContentControls\obj\Debug\6_ContentControls.pdb

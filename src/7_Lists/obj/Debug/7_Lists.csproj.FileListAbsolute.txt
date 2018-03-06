@@ -1,0 +1,13 @@
+D:\Src\MainAcademy\WPF_Examples\7_Lists\bin\Debug\7_Lists.exe.config
+D:\Src\MainAcademy\WPF_Examples\7_Lists\bin\Debug\7_Lists.exe
+D:\Src\MainAcademy\WPF_Examples\7_Lists\bin\Debug\7_Lists.pdb
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists.g.resources
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\_7_Lists.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists.exe
+D:\Src\MainAcademy\WPF_Examples\7_Lists\obj\Debug\7_Lists.pdb

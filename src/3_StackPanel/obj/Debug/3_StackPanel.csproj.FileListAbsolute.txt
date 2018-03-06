@@ -1,0 +1,14 @@
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\bin\Debug\3_StackPanel.exe.config
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\bin\Debug\3_StackPanel.exe
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\bin\Debug\3_StackPanel.pdb
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel.csprojResolveAssemblyReference.cache
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel.g.resources
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\_3_StackPanel.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel.exe
+D:\Src\MainAcademy\WPF_Examples\3_StackPanel\obj\Debug\3_StackPanel.pdb

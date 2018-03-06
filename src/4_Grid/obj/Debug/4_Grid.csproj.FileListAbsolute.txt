@@ -1,0 +1,14 @@
+D:\Src\MainAcademy\WPF_Examples\4_Grid\bin\Debug\4_Grid.exe.config
+D:\Src\MainAcademy\WPF_Examples\4_Grid\bin\Debug\4_Grid.exe
+D:\Src\MainAcademy\WPF_Examples\4_Grid\bin\Debug\4_Grid.pdb
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid.csprojResolveAssemblyReference.cache
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid.g.resources
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\_4_Grid.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid.exe
+D:\Src\MainAcademy\WPF_Examples\4_Grid\obj\Debug\4_Grid.pdb

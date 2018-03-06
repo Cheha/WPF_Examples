@@ -1,0 +1,14 @@
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\bin\Debug\8_MVVM.exe.config
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\bin\Debug\8_MVVM.exe
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\bin\Debug\8_MVVM.pdb
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM.csprojResolveAssemblyReference.cache
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM.g.resources
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\_8_MVVM.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM.exe
+D:\Src\MainAcademy\WPF_Examples\8_MVVM\obj\Debug\8_MVVM.pdb

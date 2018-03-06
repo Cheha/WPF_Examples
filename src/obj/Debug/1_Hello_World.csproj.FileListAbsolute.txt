@@ -1,0 +1,14 @@
+D:\Src\MainAcademy\WPF_Examples\bin\Debug\WPF_Examples.exe.config
+D:\Src\MainAcademy\WPF_Examples\bin\Debug\WPF_Examples.exe
+D:\Src\MainAcademy\WPF_Examples\bin\Debug\WPF_Examples.pdb
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\1_Hello_World.csprojResolveAssemblyReference.cache
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\MainWindow.g.cs
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\App.g.cs
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples_MarkupCompile.cache
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples_MarkupCompile.lref
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\MainWindow.baml
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples.g.resources
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples.Properties.Resources.resources
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\1_Hello_World.csproj.GenerateResource.Cache
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples.exe
+D:\Src\MainAcademy\WPF_Examples\obj\Debug\WPF_Examples.pdb
